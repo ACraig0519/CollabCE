@@ -16,6 +16,11 @@ public class AC25 {
      */
     public static void main(String[] args) {
         System.out.println("Goodbye cruel world");
+        Hinerman();
+    }
+    public static void Hinerman()
+    {
+        System.out.println("Nathan was here!!");
     }
     
 }
